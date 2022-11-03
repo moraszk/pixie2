@@ -1183,6 +1183,7 @@
     )
   )
 
+
   (junction (at 183.515 44.45) (diameter 0) (color 0 0 0 0)
     (uuid 04fb84cf-d34b-4799-aa08-42efca6c2db0)
   )
@@ -1451,7 +1452,7 @@
     (uuid 02bbdd62-5160-4932-b1d2-cf5e5771ab93)
     (property "Reference" "L4" (id 0) (at 179.07 40.2422 90))
     (property "Value" "2u2" (id 1) (at 179.07 42.7791 90))
-    (property "Footprint" "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P10.16mm_Horizontal_Fastron_MICC" (id 2) (at 179.07 44.45 0)
+    (property "Footprint" "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC" (id 2) (at 179.07 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 179.07 44.45 0)
@@ -2927,7 +2928,7 @@
       (reference "L3") (unit 1) (value "2u2") (footprint "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P10.16mm_Horizontal_Fastron_MICC")
     )
     (path "/02bbdd62-5160-4932-b1d2-cf5e5771ab93"
-      (reference "L4") (unit 1) (value "2u2") (footprint "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P10.16mm_Horizontal_Fastron_MICC")
+      (reference "L4") (unit 1) (value "2u2") (footprint "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC")
     )
     (path "/74689544-f28e-447c-99c3-309831032263"
       (reference "Q1") (unit 1) (value "BC547") (footprint "Package_TO_SOT_THT:TO-92_Inline")
