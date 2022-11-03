@@ -1887,7 +1887,7 @@
     (uuid 52c94579-b45c-445c-ba08-42ddab26390a)
     (property "Reference" "D3" (id 0) (at 102.87 97.9002 0))
     (property "Value" "1N4148" (id 1) (at 102.87 100.4371 0))
-    (property "Footprint" "Diode_THT:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp" (id 2) (at 102.87 102.87 0)
+    (property "Footprint" "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp" (id 2) (at 102.87 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" (id 3) (at 102.87 102.87 0)
@@ -2483,7 +2483,7 @@
     (uuid c679ff8e-a3b7-4479-836b-462a3dd7ef0c)
     (property "Reference" "R1" (id 0) (at 75.565 72.1192 90))
     (property "Value" "10k" (id 1) (at 75.565 74.6561 90))
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (id 2) (at 75.565 78.613 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" (id 2) (at 75.565 78.613 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 75.565 76.835 0)
@@ -2709,7 +2709,7 @@
     (property "Value" "100k" (id 1) (at 102.108 67.1072 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (id 2) (at 98.552 65.405 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" (id 2) (at 98.552 65.405 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 100.33 65.405 0)
@@ -2894,7 +2894,7 @@
       (reference "D2") (unit 1) (value "1N4001") (footprint "Diode_THT:D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp")
     )
     (path "/52c94579-b45c-445c-ba08-42ddab26390a"
-      (reference "D3") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp")
+      (reference "D3") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp")
     )
     (path "/14661244-47a5-446e-94d8-446808dfc46f"
       (reference "D4") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
@@ -2936,13 +2936,13 @@
       (reference "Q2") (unit 1) (value "2N2219") (footprint "Package_TO_SOT_THT:TO-39-3")
     )
     (path "/c679ff8e-a3b7-4479-836b-462a3dd7ef0c"
-      (reference "R1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
     )
     (path "/f499b87d-4dce-4e6c-9169-f637a600dc96"
       (reference "R2") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
     )
     (path "/f53ba1ed-bb18-4dbe-a067-69dda2e4e8ea"
-      (reference "R3") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R3") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical")
     )
     (path "/4467688f-009a-41f4-ad76-547ce1f27c5b"
       (reference "R4") (unit 1) (value "2k2") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
